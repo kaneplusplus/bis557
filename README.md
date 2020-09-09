@@ -9,7 +9,7 @@ bis557
 [![Travis build
 status](https://travis-ci.org/kaneplusplus/bis557.svg?branch=master)](https://travis-ci.org/kaneplusplus/bis557)
 [![Coverage
-Status](https://coveralls.io/repos/github/kaneplusplus/bis557/badge.svg?branch=master)](https://coveralls.io/github/kaneplusplus/bis557?branch=master)
+Status](https://coveralls.io/repos/github/kaneplusplus/bis557/badge.svg)](https://coveralls.io/github/kaneplusplus/bis557)
 <!-- badges: end -->
 
 The goal of bis557 is to illustrate how to create an R package for the
