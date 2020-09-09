@@ -9,5 +9,5 @@
 #' grab_resids(fit)
 #' @export
 grab_resids <- function(lm_obj) {
-  lm_obj$residual
+  lm_obj$residuals
 }
