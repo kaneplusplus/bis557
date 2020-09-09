@@ -7,7 +7,7 @@ bis557
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.com/kaneplusplus/bis557.svg?branch=master)](https://travis-ci.com/kaneplusplus/bis557)
+status](https://travis-ci.org/kaneplusplus/bis557.svg?branch=master)](https://travis-ci.org/kaneplusplus/bis557)
 [![Coveralls test
 coverage](https://coveralls.io/repos/github/kaneplusplus/bis557/badge.svg)](https://coveralls.io/r/kaneplusplus/bis557?branch=master)
 <!-- badges: end -->
